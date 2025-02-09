@@ -1,4 +1,4 @@
-# Spotify Wrapped Unwrapped
+# Spotify unWrapped
 
 This project aims to analyze my Spotify listening patterns and programmatically generate a new "Spotify Wrapped" experience using Generative AI. This last year's was lack luster and I'd like to make a fun, fresh feature. 
 
